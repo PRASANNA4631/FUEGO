@@ -1,0 +1,9 @@
+<div class="side-nav-container">
+  <mat-list role="list" *ngFor="let items of listitem">
+    <mat-list-item role="listitem" (click)="navigateToSideMenuScreen(items)"
+      ><img class="svgIcons" [src]="items.CategoryIcon" />{{
+        items.CategoryLabel
+      }}</mat-list-item
+    >
+  </mat-list>
+</div>

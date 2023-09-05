@@ -1,0 +1,23 @@
+<mat-drawer-container class="example-container" autosize>
+    <mat-drawer [(opened)]="opened" [mode]="sideNavType ? 'side' : 'over'">
+      <app-side-nav></app-side-nav>
+    </mat-drawer>
+
+    
+  <div class="header-containers">
+
+  </div>
+
+
+    <div class="example-sidenav-content">
+      <button (click)="toggle()"><img class="svgIcons" src="assets/icons/menu-bar.svg" >MENU</button>
+    </div>
+
+    <div class="row">
+      <router-outlet></router-outlet>
+    </div>
+
+    <div class="row">
+      <app-footer></app-footer>
+    </div>
+  </mat-drawer-container>

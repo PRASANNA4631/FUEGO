@@ -1,0 +1,74 @@
+[
+    {
+        "CategoryId": 1,
+        "CategoryLabel": "Dashboard",
+        "CategoryCode": "dashboard",
+        "CategoryUrl": "dashboard",
+        "CategoryIcon": "assets/icons/dashboard.svg"
+        
+    },
+    {
+        "CategoryId": 2,
+        "CategoryLabel": "Search",
+        "CategoryCode": "search",
+        "CategoryUrl": "Search",
+        "CategoryIcon": "assets/icons/search.svg"
+    },
+    {
+        "CategoryId": 3,
+        "CategoryLabel": "Posts",
+        "CategoryCode": "posts",
+        "CategoryUrl": "posts",
+        "CategoryIcon": "assets/icons/dashboard.svg"
+    },
+    {
+        "CategoryId": 4,
+        "CategoryLabel": "My Post",
+        "CategoryCode": "myPost",
+        "CategoryUrl": "myPost",
+        "CategoryIcon": "assets/icons/dashboard.svg"
+    },
+    {
+        "CategoryId": 5,
+        "CategoryLabel": "Review",
+        "CategoryCode": "review",
+        "CategoryUrl": "review",
+        "CategoryIcon": "assets/icons/dashboard.svg"
+    },
+    {
+        "CategoryId": 6,
+        "CategoryLabel": "Wishlist",
+        "CategoryCode": "wishlist",
+        "CategoryUrl": "wishlist",
+        "CategoryIcon": "assets/icons/cart.svg"
+    },
+
+    {
+        "CategoryId": 7,
+        "CategoryLabel": "Settings",
+        "CategoryCode": "settings",
+        "CategoryUrl": "settings",
+        "CategoryIcon": "assets/icons/settings.svg"
+    },
+    {
+        "CategoryId": 8,
+        "CategoryLabel": "About Us",
+        "CategoryCode": "aboutUs",
+        "CategoryUrl": "aboutus",
+        "CategoryIcon": "assets/icons/info.svg"
+    },
+    {
+        "CategoryId": 9,
+        "CategoryLabel": "FAQS",
+        "CategoryCode": "review",
+        "CategoryUrl": "review",
+        "CategoryIcon": "assets/icons/dashboard.svg"
+    },
+    {
+        "CategoryId": 10,
+        "CategoryLabel": "Support/ContactUs",
+        "CategoryCode": "Wishlist",
+        "CategoryUrl": "Wishlist",
+        "CategoryIcon": "assets/icons/dashboard.svg"
+    }
+]
